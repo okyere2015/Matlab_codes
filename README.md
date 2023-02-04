@@ -1,2 +1,2 @@
 # Matlab_codes
-Solves deterministic/compartmental models
+Solves Diabetes and COVID-19 coinfection model
